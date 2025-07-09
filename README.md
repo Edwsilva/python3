@@ -1,2 +1,2 @@
 # python3
-Básico de Python3 no Linux Mint e no Windows
+Básico de Python 3 no Linux Mint e no Microsoft Windows
